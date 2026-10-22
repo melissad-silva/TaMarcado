@@ -1,0 +1,3 @@
+br\edu\ifpr\tamarcado\repository\CompromissoRepository.class
+br\edu\ifpr\tamarcado\service\CompromissoService.class
+br\edu\ifpr\tamarcado\model\Compromisso.class

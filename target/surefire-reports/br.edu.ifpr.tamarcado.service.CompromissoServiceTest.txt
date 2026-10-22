@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.edu.ifpr.tamarcado.service.CompromissoServiceTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.019 s -- in br.edu.ifpr.tamarcado.service.CompromissoServiceTest
